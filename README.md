@@ -1,4 +1,4 @@
-# Project-Coffee_Quality
+# Predict coffee quality with Machine Learning
 
 This notebook presents the prediction of the quality of wine on the basis of various features such as the farm and beans metadata, or quality measures (flavor, aroma, etc.). This prospection is carried out with Python for data analysis, visualization and machine learning (ML).
 
